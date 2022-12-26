@@ -19,6 +19,14 @@ git status
 git diff
 git add .
 git commit -m "Second Commit"
+git commit -a -m "commiting updates"
+git status
+git log
+git log -p
+git branch
+git branch tester
+git branch
+git switch tester
 
 
 
