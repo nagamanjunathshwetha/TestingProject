@@ -1,0 +1,19 @@
+git config --list
+MANJU@MANJUNATH-TABJUL MINGW64 /t/udemycertificates/GitInstalltion
+$ git config --global user.name "Tabjul Naga Manjunath"
+
+MANJU@MANJUNATH-TABJUL MINGW64 /t/udemycertificates/GitInstalltion
+$ git config --global user.email "tabjulnagamanjunath@gmail.com"
+
+MANJU@MANJUNATH-TABJUL MINGW64 /t/udemycertificates/GitInstalltion
+$ git config --global init.default branch main
+
+git help config
+git status
+git branch -m master main
+git status
+for removes
+git rm --cached gitcommands.txt
+
+
+
