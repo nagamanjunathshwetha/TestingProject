@@ -27,6 +27,10 @@ git branch
 git branch tester
 git branch
 git switch tester
+git status
+git commit -a -m "commiting from tester branch"
+git branch
+git switch main 
 
 
 
