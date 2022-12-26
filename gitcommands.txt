@@ -14,6 +14,11 @@ git branch -m master main
 git status
 for removes
 git rm --cached gitcommands.txt
+git commit -m "First Commit"
+git status
+git diff
+git add .
+git commit -m "Second Commit"
 
 
 
